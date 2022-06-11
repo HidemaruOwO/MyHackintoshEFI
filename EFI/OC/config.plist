@@ -16,9 +16,9 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-EC-USBX-DESKTOP.aml</string>
+				<string>SSDT-EC-USBX-AMD.aml</string>
 				<key>Path</key>
-				<string>SSDT-EC-USBX-DESKTOP.aml</string>
+				<string>SSDT-EC-USBX-AMD.aml</string>
 				<key>Enabled</key>
 				<string>True</string>
 			</dict>
